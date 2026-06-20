@@ -1,0 +1,14 @@
+{
+  "name": "link-tracker",
+  "version": "1.0.0",
+  "description": "Team link tracker for Accommodation, Yojna, and Faculty pages",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.2",
+    "sql.js": "^1.14.1"
+  }
+}
